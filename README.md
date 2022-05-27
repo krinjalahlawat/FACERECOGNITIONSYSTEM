@@ -1,0 +1,2 @@
+# FACERECOGNITIONSYSTEM
+This my ,Krinjal Ahlawat repository in which face recognition system is created with this subparts which are security device ,attendance management system and criminal detection This project contains 3 parts and a webpage the three parts are criminal system ,attendance system and voice assistant face lock . The requirments of all the three folders are different so seprately all the requirments are mentioned in all the three folders .
